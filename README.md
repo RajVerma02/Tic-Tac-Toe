@@ -1,3 +1,3 @@
 Tic Tac Toe Game
 </br>
-Author: Raj Verma
+Author: Raj Verma(BCA)
